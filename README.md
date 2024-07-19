@@ -20,4 +20,6 @@ Systematically reviewed and summarized key findings to identify patterns, themes
 
 **Data Analysis Projects**
 
-**Visualizing the Opioid Toll: Connecticut's Story**
+**Visualizing the Opioid Toll: Connecticut's Story**       
+
+For my project titled Visualizing the Opioid Toll: Connecticut's Story, I gathered data from Kaggle and used Excel for data cleaning, in data cleaning removed duplicates and missing data was filtered out and analysis of the data only for CT was considered. Employed the use of statistical functions, IF and Else logics and pivot tables to derive key statistics such as and mean, mode standard deviation, quartiles, and frequency of age groups to visualize the standard deviation. Used various other excel functions for analysing the distribution and cause of deaths relating to the medication/ prescription abuse, substance abuse or overdose or alcohol related drug deaths. Analysis was also done to identify the frequency of the age group addicted and distribution of race in different counties and also city level break-down. With the visualizations and use of various charts a pie chart for percentage of death by race, a bar graph for percentage of gender distribution for the type of abuse. A standard deviation curve that gives the most affected age range and have deaths. A butterfly chart for count of male vs females in various age groups distribution. A funnel chart gives a count of death with different substances.  
