@@ -1,14 +1,5 @@
 **Research Projects**
 
-**A Digital Approach to Hypertension Control: Self-Monitoring with Mhealth Apps     Apr, 2024 -Jun, 2024**
-
-**Sacred Heart University, Department of Healthcare Informatics**
-
-A comprehensive review of peer-reviewed English articles from 2019-2024 in CINAHL, MEDLINE, and PubMed databases using specific keywords related to AI and caries detection was conducted. 
-Out of 30 initial studies, 25 were selected based on relevance to caries detection in permanent teeth and completeness of data.
-Conducted a review of the selected studies, organizing findings by four major themes: AI model precision, various AI models, image processing methods, and cost-benefit analysis.
-The findings are AI models, particularly deep learning with convolutional neural networks, showed 70-98% accuracy in caries detection, generally outperforming dentists.
-
 **The Dental Detectives, AI evolving Role in early caries detection 	Jan, 2024 -Jun, 2024**
 
 **Sacred Heart University, Department of Healthcare Informatics**
